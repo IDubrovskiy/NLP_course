@@ -1,2 +1,2 @@
-# NLP_course
- This is the repository with the tasks from NLP course
+# NLP course
+ This is the repository with the tasks from Natural Language Processing course
